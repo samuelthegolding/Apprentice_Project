@@ -1,0 +1,27 @@
+
+body {
+  background: #f5f5f5;
+  font-family:"Comic Sans MS"; 
+}
+h1{ 
+}
+#menubar{
+  list-style-type:none;
+  margin:0;
+  padding:0;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  overflow: hidden;
+   background-color: #333;
+}
+li{
+  text-color:white;
+  display:inline;
+  margin:60px;
+  border-right: 1px solid rgb(255,255,255);
+}
+a{
+  text-color:white;
+  
+}
